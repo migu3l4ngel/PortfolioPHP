@@ -1,0 +1,14 @@
+temporizador 
+app del tiempo
+to do app
+buscador de libros
+
+
+developer.marvel.com/docs
+hp-api.herokuapp.com
+igdb.com/discover
+dragon-ball-api.herokuapp.com/documentation
+rickandmortyapi.com
+pokeapi.co
+
+https://jsonplaceholder.typicode.com/
