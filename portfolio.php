@@ -26,7 +26,7 @@
     
     $objConexion = new Conexion();
     $proyectos = $objConexion->Consultar("SELECT * FROM `proyectos`");
-    //print_r($resultado);
+    ///print_r($resultado);
 
 ?>
 <br/>
@@ -58,6 +58,7 @@
                 </div>
                 <div class="card-body">
                     <table class="table" >
+                    <caption></caption>
                         <thead>
                             <tr>
                                 <th>ID:</th>
